@@ -194,7 +194,7 @@ cin>>choix1;
                                  \n3.Pufferfish
                                  \n4.Moshi”;
                      cin>>choix2;  
-	       Break;
+	       break;
 
        case 3: cout<<"\n1.Lemon cottage cheese
                                  \n2.Pineapple Marinate
